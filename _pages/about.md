@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yusuph Mavura's personal website"
+title: "Welcome to Yusuph Mavura's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/

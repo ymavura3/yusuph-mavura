@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yusuph Mavura, PhD"
+title                    : "Yusuph's Homepage"
 title_separator          : "-"
 name                     : &name "Yusuph Mavura, PhD"
 description              : &description "personal description"
@@ -25,10 +25,10 @@ author:
   name             : "Yusuph Mavura, PhD"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : #"Earth"
-  employer         : #"Red Brick University"
+  location         : "San Francisco"
+  employer         : "University of California San Francisco"
   uri              : # URL
-  email            : "yrmavura[at]gmail.com" 
+  email            : "yusuph.mavura[at]ucsf.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

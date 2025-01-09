@@ -15,9 +15,16 @@ main:
     url: /year-archive/
 
   - title: "Resume"
-    url: /resume/
+    #url: /resume/
+    url: /files/Yusuph_Mavura_Resume_Jan_25.pdf
     
   - title: "CV"
     url: /cv/
+    
+  #- title: "Portfolio"
+   # url: /portfolio/
+
+  #- title: "Guide"
+    #url: /markdown/
     
  

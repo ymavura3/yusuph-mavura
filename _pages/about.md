@@ -9,7 +9,13 @@ redirect_from:
 
 I am an Epidemiologist, Biostatistician and Bioinformatician. My interests include:
 
-I received my PhD in Epidemiology and Translational Science from University of California San Francisco, working with Neil Risch, and received my Masters of Science in Bioinformatics from Georgia Institute of Technology.  
+I'm also an advocate for 
+
+I received my PhD in Epidemiology and Translational Science from University of California San Francisco, working with Neil Risch, and received my Masters of Science in Bioinformatics from Georgia Institute of Technology. 
+
+I proudly embrace my Tanzanian heritage and Kenyan upbringing, and I enjoy chatting in Kiswahili whenever I have the chance. I also love cooking traditional dishes, both to stay connected to my culture and because the food is simply delicious!
+
+I enjoy playing futbol (shoutout to SF Goats) and watching Liverpool F.C. win (Liverpool insignia), hiking around the Bay Area, golf, anime, roadtrips, comedy clubs, hanging out ..
 
 A data-driven personal website
 ======

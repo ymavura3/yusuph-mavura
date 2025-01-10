@@ -7,15 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am an Epidemiologist, Biostatistician and Bioinformatician. My interests include:
+I am an Epidemiologist, Biostatistician and Bioinformatician specializing in human genetics and genomics. 
 
-I'm also an advocate for 
+My interests include:
+
+1. Mendelian and rare disease genetics
+1. Population genetics and genetic epidemiology
+1. Causal inference using real-world data
+1. Data visualization methods
+
+I'm also an advocate for health equity and equity in the workforce (link to NEJM paper).
 
 I received my PhD in Epidemiology and Translational Science from University of California San Francisco, working with Neil Risch, and received my Masters of Science in Bioinformatics from Georgia Institute of Technology. 
 
+![Picture to usher in informal side](/images/editing-talk.png)
 I proudly embrace my Tanzanian heritage and Kenyan upbringing, and I enjoy chatting in Kiswahili whenever I have the chance. I also love cooking traditional dishes, both to stay connected to my culture and because the food is simply delicious!
 
-I enjoy playing futbol (shoutout to SF Goats) and watching Liverpool F.C. win (Liverpool insignia), hiking around the Bay Area, golf, anime, roadtrips, comedy clubs, hanging out ..
+I enjoy playing futbol (shoutout to SF Goats) and watching Liverpool F.C. win (Liverpool insignia), hiking, golf, anime, roadtrips, comedy clubs, hanging out ..
 
 A data-driven personal website
 ======

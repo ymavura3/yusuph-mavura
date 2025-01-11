@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yusuph's Homepage"
 title_separator          : "-"
 name                     : &name "Yusuph Mavura, PhD"
-description              : &description "personal description"
+description              : #&description "personal description"
 url                      : https://yusuph-mavura.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yusuph-mavura.github.io"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=MSe12kAAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8527-0736"
   semantic         : # URL

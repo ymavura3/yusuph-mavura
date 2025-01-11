@@ -8,11 +8,14 @@ main:
   #- title: "Research"
    # url: /research/
    
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
     
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Service"
+    url: /portfolio/  
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -22,7 +25,7 @@ main:
     url: /files/Yusuph_Mavura_Resume_Jan_25.pdf
     
   - title: "CV"
-    url: /cv/
+    url: /files/Yusuph_Mavura_CV_August_2024.pdf
     
   #- title: "Portfolio"
    # url: /portfolio/

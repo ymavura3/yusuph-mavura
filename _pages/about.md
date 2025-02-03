@@ -16,7 +16,6 @@ My interests include:
 1. Causal inference using real-world data
 1. Data visualization methods
 
-I'm also an advocate for health equity and equity in the workforce (link to NEJM paper).
 
 I received my PhD in Epidemiology and Translational Science from University of California San Francisco, working with Neil Risch, and received a MS in Bioinformatics from Georgia Institute of Technology. Before that, I received a BS in Biochemistry and Mmolecular Biology from Jomo Kenyatta University of Agriculture and Technology, Kenya.
 
